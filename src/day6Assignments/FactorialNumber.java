@@ -1,4 +1,4 @@
-package day4Assignments;
+package day6Assignments;
 import java.util.Scanner;
 
 public class FactorialNumber {
