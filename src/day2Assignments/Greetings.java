@@ -1,4 +1,4 @@
-package day1Assignments;
+package day2Assignments;
 
 public class Greetings {
     public static void main(String[] args) {

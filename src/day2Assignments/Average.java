@@ -1,4 +1,4 @@
-package day1Assignments;
+package day2Assignments;
 import java.util.Scanner;
 public class Average {
     public static void main(String[] args) {

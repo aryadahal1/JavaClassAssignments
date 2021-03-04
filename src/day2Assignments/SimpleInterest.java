@@ -1,4 +1,4 @@
-package day1Assignments;
+package day2Assignments;
 
 import java.util.Scanner;
 
